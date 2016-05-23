@@ -1,0 +1,3 @@
+<?php
+unlink("stealer.log");
+?>
